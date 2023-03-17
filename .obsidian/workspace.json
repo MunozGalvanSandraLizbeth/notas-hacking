@@ -4,455 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "86d0db6f8ecfc9c6",
+        "id": "87d97082bf8cbedc",
         "type": "tabs",
         "children": [
           {
-            "id": "de0d88103c09afe5",
+            "id": "cbfdd0ab3dbb9f2e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Participación en picoCTF 2023/Plantilla.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3d64c50bf22bf4b9",
+            "id": "59519072fa00cf92",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-bandit/Plantilla.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fac84b381c74ec99",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "retos-bandit/Plantilla.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d4adb46297d8b91c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "retos-bandit/Plantilla.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2fde21bcb3bf8bb7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "retos-bandit/Level 1 - 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f272e1fa2b9aef82",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "retos-bandit/Plantilla.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "37d73d9a5e881c19",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "retos-bandit/Level 3 - 4.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "76b42789f5acc497",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "retos-bandit/Level 4 - 5.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9249b5bcd5e51f4a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "retos-bandit/Plantilla.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "19819a9f1c61cca4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "retos-bandit/Level 6 - 7.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "258db5578fa8363b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "retos-bandit/Level 7 - 8.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2038a1efa95cd062",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "retos-bandit/Level 8 - 9.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e8fcca741d08a6f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "retos-bandit/Plantilla.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "00c204834280be0b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "retos-bandit/Level 10 - 11.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5bccc98107bd97bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "retos-bandit/Level 11 - 12.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d91472416ffd3978",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "retos-bandit/Level 12 - 13.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9d7dfb2f5bb47b9e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "retos-bandit/Level 13 - 14.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fba4f941284b171d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "retos-bandit/Level 14 - 15.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d9654d676d132487",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "retos-bandit/Level 15 - 16.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "21651cf34924a1f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "retos-bandit/Level 16 - 17.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9e9ef0d1fdb49314",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "retos-bandit/Level 17 - 18.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6e8b0608f96209f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "retos-bandit/Level 18 - 19.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "00ef38bc51c2b889",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "retos-bandit/Plantilla.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4937f3b00e2e8698",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "retos-bandit/Level 20 - 21.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "be53e776b461db91",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "retos-bandit/Level 19 - 20.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4836030f2d12b47d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "retos-bandit/Plantilla.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7b6c5e60d9c5aab2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "retos-bandit/Plantilla.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "12bcefe24f441420",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "retos-bandit/Level 24 - 25.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "79f97a67961979db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "retos-bandit/Level 25 - 26.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "35182f633154d45c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "retos-bandit/Level 26 - 27.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7ac58a2b6f433813",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "retos-bandit/Level 21 - 22.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2658c880754ea56a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "retos-bandit/Level 28 - 29.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f0b96b9d073ffc0e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "retos-bandit/Level 29 - 30.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "14d8cf0a964c0373",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "retos-bandit/Level 30 - 31.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e09a866d7f95ba3e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "retos-bandit/Level 31 - 32.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3f9d21c0e3281d08",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "retos-bandit/Level 32 - 33.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1e2d7deb73d2905d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "retos-bandit/Level 33 - 34.md",
+                "file": "primer-parcial/2021/06-Magikarp Ground Mission.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 36
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -518,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos-bandit/Level 33 - 34.md",
+                "file": "primer-parcial/2021/06-Magikarp Ground Mission.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -535,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos-bandit/Level 33 - 34.md",
+                "file": "primer-parcial/2021/06-Magikarp Ground Mission.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -558,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos-bandit/Level 33 - 34.md"
+                "file": "primer-parcial/2021/06-Magikarp Ground Mission.md"
               }
             }
           }
@@ -579,34 +159,41 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "1e2d7deb73d2905d",
+  "active": "59519072fa00cf92",
   "lastOpenFiles": [
-    "retos-bandit/Level 32 - 33.md",
-    "retos-bandit/Level 31 - 32.md",
-    "retos-bandit/Level 33 - 34.md",
-    "retos-bandit/Level 30 - 31.md",
-    "retos-bandit/Level 29 - 30.md",
-    "retos-bandit/Level 28 - 29.md",
-    "retos-bandit/Level 27 - 28.md",
-    "retos-bandit/Plantilla.md",
-    "retos-bandit/Level 21 - 22.md",
-    "retos-bandit/Level 26 - 27.md",
-    "retos-bandit/Level 25 - 26.md",
-    "retos-bandit/Level 24 - 25.md",
-    "retos-bandit/Level 23 - 24.md",
-    "retos-bandit/Level 0.md",
-    "retos-bandit/Level 22 - 23.md",
-    "retos-bandit/Level 19 - 20.md",
-    "retos-bandit/Level 18 - 19.md",
-    "retos-bandit/Level 16 - 17.md",
-    "retos-bandit/Level 17 - 18.md",
-    "retos-bandit/Level 15 - 16.md",
-    "retos-bandit/Level 20 - 21.md",
-    "retos-bandit/Level 0 - 1.md",
-    "retos-bandit/Level 14 - 15.md",
-    "retos-bandit/Level 6 - 7.md",
-    "retos-bandit/Level 13 - 14.md",
-    "retos-bandit/Level 12 - 13.md",
+    "primer-parcial/2022/09-PW Crack 3.md",
+    "primer-parcial/2022/08-PW Crack 2.md",
+    "primer-parcial/2022/07-PW Crack 1.md",
+    "primer-parcial/2022/06-Glitch Cat.md",
+    "primer-parcial/2022/05-fixme2.py.md",
+    "primer-parcial/2022/04-fixme1.py.md",
+    "primer-parcial/2022/03-Codebook.md",
+    "primer-parcial/2022/02-convertme.py.md",
+    "primer-parcial/2022/01-runme.py.md",
+    "primer-parcial/2021/06-Magikarp Ground Mission.md",
+    "primer-parcial/2021/05-Tab, Tab, Attack.md",
+    "Participación en picoCTF 2023/01-money-ware.md",
+    "Participación en picoCTF 2023/02-repetitions.md",
+    "Participación en picoCTF 2023/03-Rules 2023.md",
+    "Participación en picoCTF 2023/04-HideToSee.md",
+    "Participación en picoCTF 2023/Plantilla.md",
+    "primer-parcial/2021/04-Static ain't always noise.md",
+    "Participación en picoCTF 2023/Untitled.md",
+    "primer-parcial/2021/03-Nice netcat....md",
+    "primer-parcial/2019/04-what's a net cat.md",
+    "primer-parcial/2019/01-Lets Warm Up.md",
+    "primer-parcial/2021/02-Wave a flag.md",
+    "primer-parcial/2021/01-Obedient Cat.md",
+    "primer-parcial/2019/02-Warmed Up.md",
+    "primer-parcial/2019/03-2Warm.md",
+    "primer-parcial/2019/05-strings it.md",
+    "Participación en picoCTF 2023",
+    "Retos web parte 2",
+    "Retos web parte 1",
+    "primer-parcial/2022",
+    "primer-parcial/2021",
+    "primer-parcial/2019",
+    "primer-parcial",
     "retos-bandit"
   ]
 }
