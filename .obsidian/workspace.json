@@ -25,14 +25,242 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "primer-parcial/2021/06-Magikarp Ground Mission.md",
+                "file": "Retos web parte 2/01-Irish-Name-Repo 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eeb708164da2b253",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Segundo-parcial/Plantilla.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "585d1a16c8a6342a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Segundo-parcial/2022-Web/01-Includes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7e299ce51e25f2de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Segundo-parcial/2022-Web/02-Inspect HTML.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "98713804c8cf0ee4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Segundo-parcial/2022-Web/03-Local Authority.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "99373c107b0a607b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Segundo-parcial/2022-Web/04-Search source.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a19bec6e7741bc7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Segundo-parcial/2022-Web/05-Forbidden Paths.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1c85ac2aa68577fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Segundo-parcial/2022-Web/06-Power Cookie.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3d4433362858bcd9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Segundo-parcial/2022-Web/07-Roboto Sans.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1e981e3538356c26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Segundo-parcial/2022-Web/08-Secrets.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "df8c4598b00dcacc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Segundo-parcial/2022-Web/09-SQL Direct.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1e5ca6c2f6190539",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Segundo-parcial/2022-Web/10-SQLLite.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a56551c40bdf8d7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d18754d3e1ea9c44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Segundo-parcial/2021-Forensic/02-Wireshark doo dooo do doo....md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ab0ee3803d47345f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Segundo-parcial/2022-Forensic/01-Enhance!.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eb80ceaa78a476b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Segundo-parcial/2022-Forensic/02-Lookey here.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cc4a8bbe5e691e0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Segundo-parcial/2022-Forensic/03-Packets Primer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b5030bc7eaa75f8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Segundo-parcial/2022-Forensic/04-Redaction gone wrong.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2b03ad8de3afe730",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Segundo-parcial/2021-Forensic/01-information.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "259c495561d8516d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Segundo-parcial/2022-Forensic/05-St3g0.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 20
       }
     ],
     "direction": "vertical"
@@ -77,12 +305,20 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "df5433b21bb8f28f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 307.5
   },
   "right": {
     "id": "16866aa4cc63ae62",
@@ -98,7 +334,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "primer-parcial/2021/06-Magikarp Ground Mission.md",
+                "file": "Segundo-parcial/2022-Forensic/05-St3g0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +351,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "primer-parcial/2021/06-Magikarp Ground Mission.md",
+                "file": "Segundo-parcial/2022-Forensic/05-St3g0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +374,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "primer-parcial/2021/06-Magikarp Ground Mission.md"
+                "file": "Segundo-parcial/2022-Forensic/05-St3g0.md"
               }
             }
           }
@@ -159,41 +395,46 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "59519072fa00cf92",
+  "active": "259c495561d8516d",
   "lastOpenFiles": [
-    "primer-parcial/2022/09-PW Crack 3.md",
-    "primer-parcial/2022/08-PW Crack 2.md",
-    "primer-parcial/2022/07-PW Crack 1.md",
-    "primer-parcial/2022/06-Glitch Cat.md",
-    "primer-parcial/2022/05-fixme2.py.md",
-    "primer-parcial/2022/04-fixme1.py.md",
-    "primer-parcial/2022/03-Codebook.md",
-    "primer-parcial/2022/02-convertme.py.md",
-    "primer-parcial/2022/01-runme.py.md",
-    "primer-parcial/2021/06-Magikarp Ground Mission.md",
-    "primer-parcial/2021/05-Tab, Tab, Attack.md",
-    "Participación en picoCTF 2023/01-money-ware.md",
-    "Participación en picoCTF 2023/02-repetitions.md",
-    "Participación en picoCTF 2023/03-Rules 2023.md",
-    "Participación en picoCTF 2023/04-HideToSee.md",
-    "Participación en picoCTF 2023/Plantilla.md",
-    "primer-parcial/2021/04-Static ain't always noise.md",
-    "Participación en picoCTF 2023/Untitled.md",
-    "primer-parcial/2021/03-Nice netcat....md",
-    "primer-parcial/2019/04-what's a net cat.md",
+    "Segundo-parcial/2021-Forensic/01-information.md",
+    "Segundo-parcial/2022-Web/10-SQLLite.md",
+    "Segundo-parcial/2022-Web/09-SQL Direct.md",
+    "Segundo-parcial/2022-Web/08-Secrets.md",
+    "Segundo-parcial/2022-Web/07-Roboto Sans.md",
+    "Segundo-parcial/2022-Web/06-Power Cookie.md",
+    "Segundo-parcial/2022-Web/05-Forbidden Paths.md",
+    "Segundo-parcial/2022-Web/04-Search source.md",
+    "Segundo-parcial/2022-Web/03-Local Authority.md",
+    "Segundo-parcial/2022-Web/02-Inspect HTML.md",
+    "Segundo-parcial/2022-Web/01-Includes.md",
+    "Segundo-parcial/2022-Forensic/05-St3g0.md",
+    "Segundo-parcial/2022-Forensic/04-Redaction gone wrong.md",
+    "Segundo-parcial/2022-Forensic/03-Packets Primer.md",
+    "Segundo-parcial/2022-Forensic/02-Lookey here.md",
+    "Segundo-parcial/2022-Forensic/01-Enhance!.md",
+    "Segundo-parcial/2021-Forensic/02-Wireshark doo dooo do doo....md",
+    "Pasted image 20230505210219.png",
+    "Pasted image 20230505211501.png",
+    "Pasted image 20230505210617.png",
+    "Pasted image 20230505210225.png",
+    "Segundo-parcial/2022-Forensic",
+    "README.md",
+    "Segundo-parcial/Plantilla.md",
     "primer-parcial/2019/01-Lets Warm Up.md",
-    "primer-parcial/2021/02-Wave a flag.md",
-    "primer-parcial/2021/01-Obedient Cat.md",
-    "primer-parcial/2019/02-Warmed Up.md",
-    "primer-parcial/2019/03-2Warm.md",
-    "primer-parcial/2019/05-strings it.md",
+    "Segundo-parcial/2021-Forensic",
+    "Segundo-parcial/2022-Web",
+    "Untitled",
+    "Retos web parte 2/01-Irish-Name-Repo 1.md",
+    "Segundo-parcial",
+    "Retos web parte 2/02-Irish-Name-Repo 2.md",
+    "Retos web parte 2/03-Irish-Name-Repo 3.md",
+    "retos-bandit/Level 31 - 32.md",
+    "retos-bandit/Level 24 - 25.md",
     "Participación en picoCTF 2023",
     "Retos web parte 2",
     "Retos web parte 1",
     "primer-parcial/2022",
-    "primer-parcial/2021",
-    "primer-parcial/2019",
-    "primer-parcial",
-    "retos-bandit"
+    "primer-parcial/2021"
   ]
 }
