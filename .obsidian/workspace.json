@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 307.5
+    "width": 310.5
   },
   "right": {
     "id": "16866aa4cc63ae62",
@@ -154,8 +154,16 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "b4338c78fee5f8e4",
+  "active": "2758e41d7d275d9d",
   "lastOpenFiles": [
+    "Participacion 2023",
+    "Participacion 2023/07-permissions.md",
+    "Participacion 2023/06-repetitions.md",
+    "Participacion 2023/05-ReadMyCert.md",
+    "Participacion 2023/04-Rules 2023.md",
+    "Participacion 2023/03-Reverse.md",
+    "Participacion 2023/02-hideme.md",
+    "Participacion 2023/01-rotation.md",
     "Retos Binary Explotation - picoCTF - Parte 2/2021/02-Stonks.md",
     "Retos Binary Explotation - picoCTF - Parte 2/2022/01-flag leak.md",
     "Retos Binary Explotation - picoCTF - Parte 1/03-buffer overflow 1.md",
@@ -174,14 +182,6 @@
     "Retos Reversing picoCTF - Parte 1/01-vault-door-training.md",
     "Retos Crypto - Parte 3/2023/05-ReadMyCert.md",
     "Participación en picoCTF 2023/05-ReadMyCert.md",
-    "Retos Crypto - Parte 3/2023/04-HideToSee.md",
-    "Retos Crypto - Parte 3/2022/03-basic-mod1.md",
-    "Retos Crypto - Parte 3/2021/02-Pixelated.md",
-    "Retos Crypto - Parte 3/2021/01-Mind your Ps and Qs.md",
-    "Retos Crypto - Parte 2/03-b00tl3gRSA2.md",
-    "Retos Crypto - Parte 2/02-miniRSA.md",
-    "Retos Crypto - Parte 2/01-rsa-pop-quiz.md",
-    "Retos Crypto - Parte 1/07-waves over lambda.md",
     "Tercer-parcial/MOVER",
     "Retos Binary Explotation - picoCTF - Parte 2/2022",
     "Retos Binary Explotation - picoCTF - Parte 2/2021",
