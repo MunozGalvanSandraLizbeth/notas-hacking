@@ -18,8 +18,7 @@ picoCTF{s0m3_SQL_c218b685}
 ## Notas adicionales
 
 
-### Comando    descripción
-
 
 ## Referencias
-https://jupiter.challenges.picoctf.org/problem/39720/login.html
+- https://jupiter.challenges.picoctf.org/problem/39720/login.html
+- https://jupiter.challenges.picoctf.org/problem/39720/
